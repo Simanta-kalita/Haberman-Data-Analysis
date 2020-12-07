@@ -1,1 +1,1 @@
-This above project is done by me as an assignment of an online course curriculum.
+Exploratory data analysis on Haberman dataset
